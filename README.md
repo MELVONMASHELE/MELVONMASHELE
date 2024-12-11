@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 ---
 
 ## 🏆 **Featured Projects**
-### 🌟EDOC - Stock Market Analysis & the Future of Telemedicine
+### 🌟[EDOC - Stock Market Analysis & the Future of Telemedicine](https://github.com/MELVONMASHELE/EDOC-Telemedicine-Stock-Market)
 - Analyzed stock trends in digital health using predictive analytics.
 - Insights into the growth and challenges in telemedicine.  
 
-### 🌟 Healthcare Costs & MedTech Across Countries
+### 🌟Healthcare Costs & MedTech Across Countries
 - Explored global disparities in healthcare costs and access to MedTech.
 - Power BI dashboards visualize key findings.  
 
