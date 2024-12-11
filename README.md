@@ -1,4 +1,4 @@
-# 👩🏽‍💻 [MELVON MASHELE]  
+# 👩🏽‍💻 MELVON MASHELE
 
 🎯 **Data Analyst | SQL, Power BI, Python | Crafting data solutions with purpose and precision.**  
 
