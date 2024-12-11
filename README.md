@@ -1,6 +1,6 @@
-# 👩🏽‍💻 [Your Name]  
+# 👩🏽‍💻 [MELVON MASHELE]  
 
-🎯 **Data Analyst | SQL, Power BI, Python | Turning Data Into Actionable Insights**  
+🎯 **Data Analyst | SQL, Power BI, Python | Crafting data solutions with purpose and precision.**  
 
 Welcome to my GitHub profile! I'm a passionate data analyst specializing in healthcare, social impact, and predictive analytics. I transform raw data into impactful stories using advanced tools and techniques.  
 
@@ -22,21 +22,29 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 
 ### 🌟 [Health Insurance Claims Analysis](https://github.com/YourRepoLink/Claims-Analytics)
 - Examined demographics and health conditions impacting insurance claims.
-- Provided actionable insights for risk management.  
+- Provided actionable insights for risk management.
+
+### 🌟 Predicting Personal Wellbeing: A Data-Driven Journey
+Analyzed personal data to predict wellbeing trends over time.
+Developed a predictive model for tracking mental and physical health.
+
+### 🌟 Global Women's Safety: Dangerous & Safe Countries
+Analyzed global data on women’s safety from 2019 to 2023.
+Visualized trends in safety metrics across various countries.
 
 ---
 
 ## 💼 **Skills**
 - **Languages**: SQL, Python, R, DAX  
-- **Tools**: Power BI, Tableau, Excel  
+- **Tools**: Power BI, Excel  
 - **Methodologies**: Data Cleaning, Visualization, Predictive Analytics, Business Insights  
 
 ---
 
 ## ✉️ **Get In Touch**
-- LinkedIn: [YourLinkedInLink](https://linkedin.com/in/yourname)  
-- Email: [YourEmail](mailto:yourname@email.com)  
-- Portfolio: [YourPortfolioLink](https://yourportfolio.com)  
+- LinkedIn: https://www.linkedin.com/in/melvonmashele/
+- Email: melvonkmashele@gmail.com
+- Portfolio:https://melvonkmashele.wixsite.com/data-analyst
 
 ---
 
