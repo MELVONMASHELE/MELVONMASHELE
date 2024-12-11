@@ -16,19 +16,19 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 - Analyzed stock trends in digital health using predictive analytics.
 - Insights into the growth and challenges in telemedicine.  
 
-### 🌟Healthcare Costs & MedTech Across Countries
+### 🌟[Healthcare Costs & MedTech Across Countries](https://github.com/MELVONMASHELE/MedTech-Healthcare-Costs-Dashboard)
 - Explored global disparities in healthcare costs and access to MedTech.
 - Power BI dashboards visualize key findings.  
 
-### 🌟 Health Insurance Claims Analysis
+### 🌟 [Health Insurance Claims Analysis](https://github.com/MELVONMASHELE/Health-Insurance-Claims)
 - Examined demographics and health conditions impacting insurance claims.
 - Provided actionable insights for risk management.
 
-### 🌟 Predicting Personal Wellbeing: A Data-Driven Journey
+### 🌟 [Predicting Personal Wellbeing: A Data-Driven Journey]
 - Analyzed personal data to predict wellbeing trends over time.
 - Developed a predictive model for tracking mental and physical health.
 
-### 🌟 Global Women's Safety: Dangerous & Safe Countries
+### 🌟 [Global Women's Safety: Dangerous & Safe Countries](https://github.com/MELVONMASHELE/WPS-Safety-Index)
 - Analyzed global data on women’s safety from 2019 to 2023.
 - Visualized trends in safety metrics across various countries.
 
