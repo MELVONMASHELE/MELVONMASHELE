@@ -12,15 +12,15 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 ---
 
 ## 🏆 **Featured Projects**
-### 🌟 [EDOC - Stock Market Analysis & the Future of Telemedicine](https://github.com/YourRepoLink/EDOC)
+### 🌟 [EDOC - Stock Market Analysis & the Future of Telemedicine]
 - Analyzed stock trends in digital health using predictive analytics.
 - Insights into the growth and challenges in telemedicine.  
 
-### 🌟 [Healthcare Costs & MedTech Across Countries](https://github.com/YourRepoLink/Healthcare-Analytics)
+### 🌟 [Healthcare Costs & MedTech Across Countries]
 - Explored global disparities in healthcare costs and access to MedTech.
 - Power BI dashboards visualize key findings.  
 
-### 🌟 [Health Insurance Claims Analysis](https://github.com/YourRepoLink/Claims-Analytics)
+### 🌟 [Health Insurance Claims Analysis]
 - Examined demographics and health conditions impacting insurance claims.
 - Provided actionable insights for risk management.
 
@@ -45,6 +45,7 @@ Visualized trends in safety metrics across various countries.
 - LinkedIn: https://www.linkedin.com/in/melvonmashele/
 - Email: melvonkmashele@gmail.com
 - Portfolio:https://melvonkmashele.wixsite.com/data-analyst
+- Resume: 
 
 ---
 
