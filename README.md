@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 ---
 
 ## ✨ **Fun Facts**
-- 📍 Based in [Your Location] | Open to global remote opportunities.  
-- 🌱 Currently learning advanced SQL and Tableau.  
+- 📍 Based in Johannesburg, South Africa | Open to relocate and remote opportunities.  
+- 🌱 Currently learning advanced Python 
 - 🧠 Interests: Healthcare, psychology, social impact, and AI.  
 
