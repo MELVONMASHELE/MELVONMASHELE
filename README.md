@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 - LinkedIn: https://www.linkedin.com/in/melvonmashele/
 - Email: melvonkmashele@gmail.com
 - Portfolio:https://melvonkmashele.wixsite.com/data-analyst
-- Resume: 
+- [Download My Resume](
 
 ---
 
