@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 - Analyzed stock trends in digital health using predictive analytics.
 - Insights into the growth and challenges in telemedicine.  
 
-### 🌟[Healthcare Costs & MedTech Across Countries](https://github.com/MELVONMASHELE/MedTech-Healthcare-Costs-Dashboard)
+### 🌟[Bridging the Gap: A Global Analysis of MedTech Appliance Accessibility and Adoption](https://github.com/MELVONMASHELE/MedTech-Healthcare-Costs-Dashboard)
 - Explored global disparities in healthcare costs and access to MedTech.
 - Power BI dashboards visualize key findings.  
 
