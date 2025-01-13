@@ -22,9 +22,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 
 ### 🌟 [Health Insurance Claims Analysis](https://github.com/MELVONMASHELE/Health-Insurance-Claims)
 - Examined demographics and health conditions impacting insurance claims.
-- Provided actionable insights for risk management.
-
-### 🌟 [Predicting Personal Wellbeing: A Data-Driven Journey]
+- Provided actionable insights for risk management
+### 🌟[Charting-Happiness-A-Personal-Exploration-of-Wellbeing-Through-the-Years](https://github.com/MELVONMASHELE/Charting-Happiness-A-Personal-Exploration-of-Wellbeing-Through-the-Years)
 - Analyzed personal data to predict wellbeing trends over time.
 - Developed a predictive model for tracking mental and physical health.
 
@@ -45,12 +44,13 @@ Welcome to my GitHub profile! I'm a passionate data analyst specializing in heal
 - '[LinkedIn](https://www.linkedin.com/in/melvonmashele/)
 - [Email](melvonkmashele@gmail.com)
 - [Website](https://melvonkmashele.wixsite.com/data-analyst)
-- [Download My Resume](https://github.com/MELVONMASHELE/MELVONMASHELE/blob/main/MASHELE%20RESUME.pdf)
+- [Download My Resume](https://github.com/MELVONMASHELE/MELVONMASHELE/blob/main/MK%20MASHELE%20RESUME.pdf)
 
 ---
 
 ## ✨ **Fun Facts**
-- 📍 Based in Johannesburg, South Africa | Open to relocate and remote opportunities.  
+- 📍 Based in Johannesburg, South Africa | Open to relocate and remote opportunities.
+- 🧠 Neurodivergent
 - 🌱 Currently learning advanced Python 
-- 🧠 Interests: Healthcare, psychology, social impact, and AI.  
+- 🌟Interests: Healthcare, psychology, social impact, and AI.  
 
