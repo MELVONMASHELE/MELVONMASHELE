@@ -1,13 +1,14 @@
 # 👩🏽‍💻 MELVON MASHELE
 
-🎯 **Data Analyst | SQL, Excel, Power BI, Python | Crafting data solutions with purpose and precision.**  
+🎯 **Data Analyst | SQL, Excel, Power BI, Python |Diagnosing data, prescribing insights.**  
 
 Welcome to my GitHub profile! I'm a passionate data analyst specializing in healthcare, social impact, and predictive analytics. I transform raw data into impactful stories using advanced tools and techniques.  
 
 ## 📊 **What I Do**
-- **Data Analysis & Visualization**: Turning numbers into stories with SQL, Power BI, and Python.  
-- **Predictive Modeling**: Unlocking trends to forecast outcomes.  
-- **Healthcare Analytics**: Driving insights to improve global health systems.  
+• **Data Analytics**: Excel, SQL, Power Query, DAX, Power BI, Tableau
+• **Medical Tools**: SAS, Cerner, Medisoft, AdvancedMD, Kareo
+• **Administrative**: Microsoft Office Suite, Monday.com
+• **Compliance & Standards**: HIPAA, CPT, ICD-10, HCPCS
 
 ---
 
