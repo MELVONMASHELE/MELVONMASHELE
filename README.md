@@ -5,10 +5,10 @@
 Welcome to my GitHub profile! I'm a passionate data analyst specializing in healthcare, social impact, and predictive analytics. I transform raw data into impactful stories using advanced tools and techniques.  
 
 ## 📊 **What I Do**
-• **Data Analytics**: Excel, SQL, Power Query, DAX, Power BI, Tableau
-• **Medical Tools**: SAS, Cerner, Medisoft, AdvancedMD, Kareo
-• **Administrative**: Microsoft Office Suite, Monday.com
-• **Compliance & Standards**: HIPAA, CPT, ICD-10, HCPCS
+• **Data Analytics**: Excel, SQL, Power Query, DAX, Power BI, Tableau.
+• **Medical Tools**: SAS, Cerner, Medisoft, AdvancedMD, Kareo.
+• **Administrative**: Microsoft Office Suite, Monday.com.
+• **Compliance & Standards**: HIPAA, CPT, ICD-10, HCPCS.
 
 ---
 
